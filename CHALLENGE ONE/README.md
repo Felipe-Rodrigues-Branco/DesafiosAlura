@@ -11,6 +11,6 @@ Sortear um amigo: Após adicionar os nomes, clique no botão "Sortear Amigo" par
 Nenhum requisito especial. Basta abrir o arquivo e utilizar a interface.
 
 🎲 Demonstração!
-![](assets/2025-02-04-18-50-43-Trim.mp4.gif)
+![](CHALLENGE%20ONE/assets/funcionamento.gif)
 
 
