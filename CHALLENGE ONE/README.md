@@ -11,5 +11,6 @@ Sortear um amigo: Após adicionar os nomes, clique no botão "Sortear Amigo" par
 Nenhum requisito especial. Basta abrir o arquivo e utilizar a interface.
 
 🎲 Demonstração!
-![]([assets/funcionamento.gif](https://github.com/Felipe-Rodrigues-Branco/DesafiosAlura/blob/main/CHALLENGE%20ONE/assets/2025-02-04%2018-50-43%20-%20Trim.mp4.gif))
+![](assets/2025-02-04-18-50-43-Trim.mp4.gif)
+
 
