@@ -9,5 +9,5 @@ Sortear um amigo: Após adicionar os nomes, clique no botão "Sortear Amigo" par
 📌 Requisitos
 Nenhum requisito especial. Basta abrir o arquivo e utilizar a interface.
 🎲 Demonstração!
-[2025-02-04 18-50-43 - Trim mp4](https://github.com/user-attachments/assets/0cd26ebc-496e-4157-9c1c-6c32446da45b)
+![](assets/funcionamento.gif)
 
